@@ -1,0 +1,15 @@
+{
+  "name": "s-book",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "shmilyvidian",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "lerna": "^4.0.0"
+  }
+}

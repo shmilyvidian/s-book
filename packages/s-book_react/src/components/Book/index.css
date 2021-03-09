@@ -1,0 +1,9 @@
+.span-btn{
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    cursor: default;
+}
+.div-add{
+    text-align: center;
+}

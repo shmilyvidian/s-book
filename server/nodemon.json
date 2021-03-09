@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "admin",
+        "DB_PASSWORD": "admin",
+        "DB_URL": "mongodb+srv://admin:admin@scluster.0lo7x.mongodb.net/s-book?retryWrites=true&w=majority"
+    }
+}
